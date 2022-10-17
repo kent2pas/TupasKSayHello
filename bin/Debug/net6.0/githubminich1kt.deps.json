@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "githubminich1kt/1.0.0": {
+        "runtime": {
+          "githubminich1kt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "githubminich1kt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
