@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kentc\\.nuget\\packages\\": {}
+    "C:\\Users\\jacob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\githubchallenges\\githubminich1kt\\githubminich1kt.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\githubminich1kt\\githubminich1kt.csproj",
       "projectName": "githubminich1kt",
-      "projectPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\githubchallenges\\githubminich1kt\\githubminich1kt.csproj",
-      "packagesPath": "C:\\Users\\kentc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\githubchallenges\\githubminich1kt\\obj\\",
+      "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\githubminich1kt\\githubminich1kt.csproj",
+      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\githubminich1kt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kentc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

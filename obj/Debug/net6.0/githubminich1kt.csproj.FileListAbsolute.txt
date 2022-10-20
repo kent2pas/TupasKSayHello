@@ -13,3 +13,18 @@ C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich1k
 C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich1kt\obj\Debug\net6.0\githubminich1kt.pdb
 C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich1kt\obj\Debug\net6.0\githubminich1kt.genruntimeconfig.cache
 C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich1kt\obj\Debug\net6.0\ref\githubminich1kt.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\bin\Debug\net6.0\githubminich1kt.exe
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\bin\Debug\net6.0\githubminich1kt.deps.json
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\bin\Debug\net6.0\githubminich1kt.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\bin\Debug\net6.0\githubminich1kt.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\bin\Debug\net6.0\githubminich1kt.pdb
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\refint\githubminich1kt.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.pdb
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\githubminich1kt.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\githubminich1kt\obj\Debug\net6.0\ref\githubminich1kt.dll
