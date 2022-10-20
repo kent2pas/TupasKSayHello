@@ -8,9 +8,12 @@ Console.Clear();
 Console.WriteLine("__________________________________________________");
 Console.WriteLine("What is your name?");
 string name = Console.ReadLine();
-
+while(string.IsNullOrEmpty(name)){
+    Console.WriteLine("Name can't be empty! Please enter a name");
+    name = Console.ReadLine();
+}
 while(name != "end"){
-Console.WriteLine("Good Afternoon " + name);
+Console.WriteLine($"Good Afternoon {name}");
 
 Console.WriteLine("How you been doing? ");
 Console.ReadLine();
